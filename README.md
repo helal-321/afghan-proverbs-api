@@ -1,1 +1,1 @@
-# afghan-proverbs-api
+this is an Afghan Proverb API which you can read existing proverbs, add new proverb, edit and delete existing proverbs.

@@ -1,0 +1,32 @@
+[
+   {
+      "id": "1",
+      "textDari": "آزموده را آزمودن خطاست.",
+      "textPashto": "آزمویل شوی ازمول خطا ده.",
+      "translation": "It is mistake to test what has already been tested",
+      "meaning": "Don't repeat a test on something already proven or experinced.",
+      "catagory": "advice"
+   },
+   {
+      "id": "2",
+      "textDari": "از یک دست صدا بر نمی آید.",
+      "textPashto": "زیوه لاسه غز نه رازی",
+      "translation": "one hand make no sound",
+      "meaning": "cooperation is needed, one person cannot achieve mcuh.",
+      "catagory": "advice"
+   },
+   {
+      "id": "3",
+      "textDari": "بزرگی به عقل است نه به سال.",
+      "textPshto": " لویوالی به عقل دی نه به عمر.",
+      "translation": "greatness comes from wisdom, not age.",
+      "meaning": "gratness is based on intelligence. ",
+      "catagory": "wisdom"
+   },
+   {
+      "id": null
+   },
+   {
+      "id": null
+   }
+]
